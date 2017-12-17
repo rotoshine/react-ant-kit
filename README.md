@@ -10,8 +10,7 @@ npm run start
 // yarn 사용 시
 yarn start
 ```
-
-api proxy가 필요한 경우 `package.json`의 `proxy` 부분을 수정하여 고칠 수 있다
+api proxy가 필요한 경우 `package.json`의 `proxy` 부분을 수정하여 고치면 된다.
 
 ## 개발하는 법
 
